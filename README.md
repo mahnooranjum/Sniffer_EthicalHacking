@@ -1,5 +1,5 @@
 # Packet Sniffer
-Using scapy to sniff packets on an interface. The following implementation has filters that capture usernames and url's. Run this program with an ARPSpoofing program to capture URLs and login combinations from target computers. 
+Using scapy to sniff packets on an interface. The following implementation has filters that capture usernames and URL's. Run this program with an ARPSpoofing program to capture URLs and login combinations from target computers. 
 ## Getting Started
 Download the repository and run the program using:
 > Python == 3.7.5
